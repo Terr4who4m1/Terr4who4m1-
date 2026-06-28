@@ -1,4 +1,43 @@
-<p align="center">
+<div align="center">
+
+# TERR4WHO4M1
+### Cyber Defense Learner | Secure Builder | Digital Minimalist
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:0f172a,100:164e63&height=180&section=header&text=TERR4WHO4M1&fontSize=52&fontColor=67e8f9&animation=twinkling" width="100%" />
+
+</div>
+
+---
+
+## Signal
+
+I learn cybersecurity from the defensive side: understand systems, reduce risk, and build software that survives real-world misuse.
+
+- Track: web app security and secure engineering
+- Style: practical labs, repeatable notes, measurable improvement
+- Goal: become a reliable security-minded developer
+
+---
+
+## Alias Card
+
+| Field | Value |
+|---|---|
+| Handle | Terr4who4m1 |
+| Primary Domain | Defensive Security |
+| Secondary Domain | Full-Stack Development |
+| Current Focus | Secure Auth, API Hardening, Logging Strategy |
+| Operating Principle | Break assumptions, not ethics |
+
+---
+
+## Current Mission
+
+```text
+Phase 1  -> Core networking + Linux fluency
+Phase 2  -> Web security patterns + OWASP fundamentals
+Phase 3  -> Secure coding + architecture decisions
+Phase 4  -> Portfolio projects + documented threat models<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0b1220,70:0f172a,100:001b2e&text=TEA%20HACKER%20CYBER%20ANONYM&fontSize=44&fontColor=22d3ee&animation=fadeIn&fontAlignY=36&desc=Ethical%20Cybersecurity%20Learner%20%7C%20Blue%20Team%20Mindset%20%7C%20Privacy%20First&descSize=16&descAlignY=58" />
 </p>
 
